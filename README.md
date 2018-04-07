@@ -3,7 +3,7 @@
 ## Setup
 
 **Your project should have:**
-
+```
 |- db
     |- pets.json
     |- types.json
@@ -15,6 +15,7 @@
     |- types.js [XHR call for types.json]
 |- index.html
 |- main.css
+```
 
 **Install via CDN:**
 
