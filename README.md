@@ -35,8 +35,8 @@ Image
 Name: xxx
 Color: xxx
 Special Skill: xxx
-Type of Pet Label:
-Type of Pet Description
+Type of Pet Label: xxx
+Type of Pet Description: xxx
 ```
 - As a user, I want to see 3 category(type) buttons printed at the top of the page, along with their descriptions.
 - I want to be able to click one of the 3 buttons, then only the cards that are in the category should show.
