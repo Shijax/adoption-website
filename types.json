@@ -1,0 +1,19 @@
+{
+    "types": {
+        "cat": {
+            "typeId": 1,
+            "label": "cat",
+            "description": "Ultimately could care less if you adopt them or not."
+        },
+        "dog" : {
+            "typeId": 2,
+            "label": "dog",
+            "description": "Hello, this is dog. Plz adopt me."
+        },
+        "dino" : {
+            "typeId": 3,
+            "label": "dino",
+            "description": "I will eat you either way."
+        }
+    }
+}
