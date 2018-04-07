@@ -44,6 +44,6 @@ Type of Pet Description: xxx
 
 ## Technical Requirements
 
-- You should be using Bootstrap to achieve the mockup
+- You should be using Bootstrap
 - You should be using Browserify
 - Your code should be clean and readable, with single responsibility principle
