@@ -6,13 +6,11 @@
 
 |- db
     |- pets.json
-    |- types.json
 |- javascripts
     |- events.js [Attaching all event listeners]
     |- data.js [Error and success functions for XHR]
     |- main.js [Entry point/start application]
     |- pets.js [XHR call for pets.json]
-    |- types.js [XHR call for types.json]
 |- index.html
 |- main.css
 
@@ -34,15 +32,14 @@ Image
 Name: xxx
 Color: xxx
 Special Skill: xxx
-Type of Pet Label:
-Type of Pet Description
+Type of Pet Label: xxx
 ```
-- As a user, I want to see 3 category(type) buttons printed at the top of the page, along with their descriptions.
-- I want to be able to click one of the 3 buttons, then only the cards that are in the category should show.
+- As a user, I want to see 3 category(type) buttons printed at the top of the page. Each should be a different color. These can be hard-coded.
+- I want to be able to click one of the 3 buttons, then only the cards that are in the category(type) should show.
 - There should be some way for the user to unfilter the results.
 
 ## Technical Requirements
 
-- You should be using Bootstrap to achieve the mockup
-- You should be using Browserify
-- Your code should be clean and readable, with single responsibility principle
+- You should be using Bootstrap; your project should look like the mockup displayed.
+- You should be using Browserify.
+- Your code should be clean and readable, with single responsibility principle.
