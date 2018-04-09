@@ -3,7 +3,7 @@
 ## Setup
 
 **Your project should have:**
-
+```
 |- db
     |- pets.json
 |- javascripts
@@ -13,6 +13,7 @@
     |- pets.js [XHR call for pets.json]
 |- index.html
 |- main.css
+```
 
 **Install via CDN:**
 
@@ -32,7 +33,7 @@ Image
 Name: xxx
 Color: xxx
 Special Skill: xxx
-Type of Pet Label: xxx
+Type of Pet: xxx
 ```
 - As a user, I want to see 3 category(type) buttons printed at the top of the page. Each should be a different color. These can be hard-coded.
 - I want to be able to click one of the 3 buttons, then only the cards that are in the category(type) should show.
@@ -43,3 +44,4 @@ Type of Pet Label: xxx
 - You should be using Bootstrap; your project should look like the mockup displayed.
 - You should be using Browserify.
 - Your code should be clean and readable, with single responsibility principle.
+
