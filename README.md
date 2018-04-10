@@ -7,6 +7,7 @@
 |- db
     |- pets.json
 |- javascripts
+    |- dom.js [Writing to the dom]
     |- events.js [Attaching all event listeners]
     |- data.js [Error and success functions for XHR]
     |- main.js [Entry point/start application]
