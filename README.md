@@ -21,11 +21,6 @@
 - jQuery
 - Bootstrap
 
-**Browserify and Grunt:**
-
-- Use npm to install Browserify, and any other packages you need to compile your modules.
-- Make sure you have the Grunt task running that will build the distribution bundle file.
-
 ## Requirements
 
 - As a user, I want to see a listing of all available pets. Each pet should have a card that has all this data:
@@ -47,6 +42,6 @@ Type of Pet: xxx
 ## Technical Requirements
 
 - You should be using Bootstrap; your project should look like the mockup displayed.
-- You should be using Browserify.
+- You should be using ES6 modules.
 - Your code should be clean and readable, with single responsibility principle.
 
