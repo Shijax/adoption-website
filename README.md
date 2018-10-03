@@ -2,16 +2,17 @@
 
 ## Setup
 
-**Your project should have:**
+**Your project should have (at least):**
 ```
 |- db
     |- pets.json
 |- javascripts
-    |- dom.js [Writing to the dom]
     |- events.js [Attaching all event listeners]
-    |- data.js [Error and success functions for XHR]
     |- main.js [Entry point/start application]
-    |- pets.js [XHR call for pets.json]
+    |- components
+        |- petComponent.js [Writing to the dom for the pet component]
+    |- data
+        |- petData.js [XHR call for pets.json]
 |- index.html
 |- main.css
 ```
